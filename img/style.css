@@ -1,0 +1,186 @@
+* {
+    background-color: #06101a;
+}
+
+/* shere */
+.display {
+    display: flex;
+}
+
+/* Nave Bar */
+.navebar {
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(13, 153, 255);
+    box-shadow: 2px 3px 5px rgba(255, 255, 255, 0.8)
+}
+
+.Home {
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.02);
+    color: wheat;
+
+}
+
+.nav-img-1 {
+    width: 219px;
+    height: 56px;
+}
+
+.navebar1 ul {
+    gap: 20px;
+}
+
+.navebar1 ul li {
+    list-style: none;
+
+}
+
+.navebar1 ul li a {
+    text-decoration: none;
+}
+
+.button {
+    background: rgba(7, 244, 250, 1);
+    border-radius: 28px;
+    width: 164px;
+    height: 56px;
+
+}
+
+/* Banner Style  */
+.banner {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.banner-heding {
+    width: 600;
+    font-size: 90px;
+    color: wheat;
+}
+
+.banner-p {
+    width: 400;
+    font-size: 18px;
+    color: wheat;
+}
+
+.button-1 {
+    background: rgba(7, 244, 250, 1);
+    width: 275px;
+    height: 56px;
+    border-radius: 28px;
+    font-size: 18px;
+}
+
+.banner-img {
+
+
+    justify-content: center;
+}
+
+.google {
+    margin-left: 50px;
+}
+
+.google-m {
+    margin-left: 50px;
+    padding: 20px;
+    /* padding-left: 8px; */
+    border: 1px solid rgba(7, 244, 250, 1);
+}
+
+.google-n {
+
+    width: 200px;
+    height: 70px;
+    padding: 20px;
+    align-items: center;
+    border-left: 4px solid rgba(7, 244, 250, 1);
+}
+
+.google-img {
+    width: 60px;
+    height: 30;
+    /* margin-top: 200; */
+
+}
+
+.google-p {
+    width: 148px;
+    height: 44px;
+    margin-top: -30px;
+    font-size: 40px;
+    color: wheat;
+}
+
+.google-maine {
+    align-items: center;
+    border: 1px solid rgb(13, 153, 255);
+    border-radius: 5px;
+    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8)
+}
+
+
+
+.Trusted {
+    font-weight: 600;
+    font-size: 36px;
+    color: wheat;
+
+}
+
+.Trusted-p {
+    font-weight: 400;
+    font-size: 20px;
+    color: wheat;
+}
+
+/* Marketing */
+.Unleash {
+    margin-left: 50px;
+
+}
+
+.card-conterener {
+    align-items: center;
+}
+
+.Marketing {
+    width: 360px;
+    height: 357px;
+    border: 2px solid rgba(255, 255, 255, 1);
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px rgba(255, 255, 255, 0.8);
+    /* border: 4px solid rgba(255, 255, 255, 1); */
+
+    text-align: center;
+    align-items: center;
+    /* border: 1px solid red; */
+    /* background-color: #151e28;; */
+
+}
+
+.hasan {
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.Marketing-img {
+    width: 110px;
+    height: 110px;
+
+}
+
+.Marketing-h {
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.Marketing-p {
+    color: rgba(255, 255, 255, 1);
+
+}
