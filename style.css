@@ -8,7 +8,14 @@
 }
 
 /* Nave Bar */
+.navebar-stle {
+    border: 1px solid rgb(13, 153, 255);
+    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8)
+}
+
 .navebar {
+    margin: 10px 20px;
+
     justify-content: space-between;
     align-items: center;
     border: 1px solid rgb(13, 153, 255);
