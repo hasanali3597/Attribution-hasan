@@ -120,7 +120,9 @@
     align-items: center;
     border: 1px solid rgb(13, 153, 255);
     border-radius: 5px;
-    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8)
+    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8);
+    margin-top: 30px;
+
 }
 
 
@@ -139,9 +141,23 @@
 }
 
 /* Marketing */
-.Unleash {
-    margin-left: 50px;
+.Unleash-h {
+    align-items: center;
+    justify-content: space-between;
 
+}
+
+.Unleash {
+    font-size: 50px;
+    margin-left: 50px;
+    color: wheat;
+
+}
+
+.Unleash-p {
+    font-size: 18px;
+    color: wheat;
+    font-weight: 400;
 }
 
 .card-conterener {
