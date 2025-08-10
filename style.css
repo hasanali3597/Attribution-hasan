@@ -84,6 +84,9 @@
 
 .banner-img {
     justify-content: center;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
 }
 
 .google {
