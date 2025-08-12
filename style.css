@@ -258,21 +258,81 @@
     text-align: center;
 }
 
+.mmm {
+    gap: 20px;
+}
+
 /* Slack */
 .Slack-m {
     gap: 30px;
-
+    margin-top: 20px;
     justify-content: space-between;
 }
 
 .Slack-c {
-    width: 130px;
+    width: 230px;
     height: 101px;
     border: 1px solid rgb(13, 153, 255);
-    
+    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.8);
     text-align: center;
 }
 
 .Slack {
     color: wheat;
 }
+
+/* Recent Projects */
+.Recent-m {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Recent-h {
+    color: wheat;
+    font-weight: 600;
+    font-size: 3.5rem;
+
+}
+
+.Recent-p {
+    color: wheat;
+    font-weight: 400;
+    font-size: 1.12rem;
+}
+
+.See {
+    color: wheat;
+
+    font-weight: 500;
+    font-size: 1.12rem;
+
+}
+
+.See-1 {
+    color: black;
+    background-color: rgb(7, 244, 250);
+    font-weight: 500;
+    font-size: 1.12rem;
+}
+
+.See-m {
+    border: 1px solid red;
+    width: 811px;
+    height: 44px;
+    padding: 20px;
+
+}
+
+.See-m li {
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.See-m li a {
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.See {}
