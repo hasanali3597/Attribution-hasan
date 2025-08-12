@@ -10,7 +10,8 @@
 /* Nave Bar */
 .navebar-stle {
     border: 1px solid rgb(13, 153, 255);
-    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8)
+    box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8);
+
 }
 
 .navebar {
@@ -207,4 +208,71 @@
 .Marketing-p {
     color: rgba(255, 255, 255, 1);
 
+}
+
+/* Enjoy 10% Off When You Choose Our Annual Package */
+.Enjoy-h {
+    margin-top: 50px;
+    align-items: center;
+    border: 1px solid rgb(13, 153, 255);
+    box-shadow: 1px 2px 3px 5px rgba(255, 255, 255, 0.8);
+}
+
+.Enjoy-10 {
+    padding: 60px;
+}
+
+.Enjoy {
+    color: wheat;
+    font-weight: 600;
+    font-size: 3.5rem;
+    width: 124;
+}
+
+.Enjoy1 {
+    color: wheat;
+    width: 400px;
+    font-size: 1.12rem;
+}
+
+.Enjoy-bt {
+    color: rgba(6, 16, 26, 1);
+    font-size: 1.12rem;
+    width: 180px;
+    height: 56px;
+    background-color: rgb(7, 244, 250);
+    border-radius: 30px;
+}
+
+.banner-img {}
+
+/* Our Trusted Clients and Partners */
+.Trusted {
+    color: wheat;
+    text-align: center;
+}
+
+
+.Trusted-p {
+    color: wheat;
+    text-align: center;
+}
+
+/* Slack */
+.Slack-m {
+    gap: 30px;
+
+    justify-content: space-between;
+}
+
+.Slack-c {
+    width: 130px;
+    height: 101px;
+    border: 1px solid rgb(13, 153, 255);
+    
+    text-align: center;
+}
+
+.Slack {
+    color: wheat;
 }
