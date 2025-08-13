@@ -309,17 +309,20 @@
 }
 
 .See-1 {
-    color: black;
-    background-color: rgb(7, 244, 250);
+    color: rgb(34, 1, 1);
+    background-color: rgb(8, 231, 237);
     font-weight: 500;
     font-size: 1.12rem;
+
+
 }
 
 .See-m {
-    border: 1px solid red;
+    border: 1px solid rgb(13, 153, 255);
     width: 811px;
-    height: 44px;
+    height: 14px;
     padding: 20px;
+    border-radius: 5px;
 
 }
 
@@ -331,8 +334,39 @@
 }
 
 .See-m li a {
-    margin-top: 20px;
     text-decoration: none;
 }
 
 .See {}
+
+.Travel-h {
+    width: 490px;
+    height: 495px;
+    justify-content: space-between;
+    gap: 35px;
+}
+
+.Travel-h2 {
+    color: wheat;
+    font-weight: 600;
+    font-size: 1.75rem;
+}
+
+.Travel-b {
+    width: 485px;
+    border: 1px solid rgb(8, 231, 237);
+    box-shadow: 2px 3px 6px rgba(223, 234, 186, 0.8);
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.Travel-p {
+    color: wheat;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.Travel {
+    width: 420px;
+    height: 376px;
+}
