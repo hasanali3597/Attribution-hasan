@@ -1,4 +1,7 @@
-* {
+* {}
+
+main,
+body {
     background-color: #06101a;
 }
 
@@ -351,6 +354,14 @@
     color: wheat;
     font-weight: 600;
     font-size: 1.75rem;
+    margin-left: 20px;
+}
+
+.Travel-p {
+    color: wheat;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-left: 20px;
 }
 
 .Travel-b {
@@ -361,13 +372,123 @@
     margin-top: 10px;
 }
 
-.Travel-p {
-    color: wheat;
-    font-weight: 500;
-    font-size: 1rem;
-}
+
 
 .Travel {
     width: 420px;
     height: 376px;
+}
+
+/* Real Results. Global Reach. Proven Trust */
+.Real-m {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Real {
+    color: wheat;
+    font-weight: 600;
+    font-size: 3.5rem;
+    width: 35.75rem;
+    height: 7.75rem;
+}
+
+.Real-1 {
+    color: wheat;
+    font-weight: 400;
+    font-size: 1.12rem;
+    width: 40.68rem;
+    height: 5.81rem;
+}
+
+.img-20 {
+    background-image: url(./img/img20.png);
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 450px;
+    position: relative;
+}
+
+.banner-t-1 {
+    color: wheat;
+    font-weight: 500;
+    font-size: 4rem;
+    margin: 1px;
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+}
+
+.banner-p-1 {
+    color: wheat;
+    font-weight: 400;
+    font-size: 1.12rem;
+    margin: 1px;
+    position: absolute;
+    bottom: 30px;
+    left: 60px;
+}
+
+.industry-h {
+    position: relative;
+    align-items: center;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid rgb(8, 231, 237);
+    box-shadow: 2px 3px 6px rgba(223, 234, 186, 0.8);
+}
+
+.industry {
+    color: wheat;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.industry-p {
+    color: wheat;
+    margin-top: 15px;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.industry-p2 {
+    color: wheat;
+    margin-top: 150px;
+    font-size: 1.20rem;
+    font-weight: 400;
+}
+
+.industry-img {
+    height: 14.5rem;
+    width: 17.87rem;
+    position: absolute;
+    top: 2px;
+    right: -20px;
+}
+
+.Award-h {
+    position: relative;
+    top: 180px;
+    left: 120px;
+
+}
+
+.img-22 {
+    position: absolute;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.Award {
+    color: wheat;
+    font-size: 3.75rem;
+    font-weight: 500;
+}
+
+.Award-1 {
+    color: wheat;
+    font-size: 1.25rem;
+    font-weight: 400;
+
 }
