@@ -1,4 +1,6 @@
-* {}
+/* *{max-width: 1300px;
+    margin: 0 auto; 
+}  */
 
 main,
 body {
@@ -14,8 +16,22 @@ body {
 .navebar-stle {
     border: 1px solid rgb(13, 153, 255);
     box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8);
+    max-width: 1250px;
+    margin: 0 auto;
+    background-image: url(./img/img13.png), url(./img/img132.png);
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: right top,left top;
+    
 
 }
+
+/* .bg {
+    background-image: url(./img/img132.png);
+    background-size: 25%;
+    background-repeat: no-repeat ; 
+    background-position: left top; 
+} */
 
 .navebar {
     margin: 10px 20px;
@@ -63,7 +79,14 @@ body {
 .banner {
     margin: 0 auto;
     text-align: center;
-    margin-top: 100px;
+
+}
+
+.mini {
+    height: 4.12rem;
+    width: 4.08rem;
+    border-radius: 100%;
+    background-color: #06101a;
 }
 
 .banner-heding {
@@ -88,8 +111,8 @@ body {
 
 .banner-img {
     justify-content: center;
-    height: 600px;
-    width: 600px;
+    /* height: 30%; */
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -134,10 +157,16 @@ body {
     border-radius: 5px;
     box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8);
     margin-top: 30px;
+    max-width: 1250px;
+    margin: 0 auto;
 
 }
 
 
+.Trusted-m {
+    max-width: 1250px;
+    margin: 0 auto;
+}
 
 .Trusted {
     font-weight: 600;
@@ -156,6 +185,8 @@ body {
 .Unleash-h {
     align-items: center;
     justify-content: space-between;
+    max-width: 1250px;
+    margin: 0 auto;
 
 }
 
@@ -195,6 +226,8 @@ body {
 .hasan {
     gap: 10px;
     margin-bottom: 10px;
+    max-width: 1250px;
+    margin: 0 auto;
 }
 
 .Marketing-img {
@@ -214,11 +247,17 @@ body {
 }
 
 /* Enjoy 10% Off When You Choose Our Annual Package */
+.Enjoy-h1 {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
 .Enjoy-h {
     margin-top: 50px;
     align-items: center;
     border: 1px solid rgb(13, 153, 255);
     box-shadow: 1px 2px 3px 5px rgba(255, 255, 255, 0.8);
+
 }
 
 .Enjoy-10 {
@@ -285,6 +324,11 @@ body {
 }
 
 /* Recent Projects */
+.Recent-he {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
 .Recent-m {
     justify-content: space-between;
     align-items: center;
@@ -299,8 +343,14 @@ body {
 
 .Recent-p {
     color: wheat;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 1.12rem;
+
+}
+
+.See-s {
+    max-width: 1250px;
+    margin: 0 auto;
 }
 
 .See {
@@ -342,19 +392,25 @@ body {
 
 .See {}
 
+.Travel-s {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
 .Travel-h {
     width: 490px;
     height: 495px;
     justify-content: space-between;
     gap: 35px;
     margin-top: 20px;
+    max-width: 0 auto;
 }
 
 .Travel-h2 {
     color: wheat;
     font-weight: 600;
     font-size: 1.75rem;
-    margin-left: 20px;
+    margin: 0 auto;
 }
 
 .Travel-p {
@@ -365,7 +421,7 @@ body {
 }
 
 .Travel-b {
-    width: 485px;
+    width: 410px;
     border: 1px solid rgb(8, 231, 237);
     box-shadow: 2px 3px 6px rgba(223, 234, 186, 0.8);
     gap: 10px;
@@ -375,8 +431,8 @@ body {
 
 
 .Travel {
-    width: 420px;
-    height: 376px;
+    width: 24.375rem;
+    height: 23.25rem;
 }
 
 /* Real Results. Global Reach. Proven Trust */
@@ -478,6 +534,11 @@ body {
     width: 700px;
     margin-left: 100px;
     margin-top: 30px;
+}
+
+.Award-m {
+    max-width: 1250px;
+    margin: 0 auto;
 }
 
 .Award {
