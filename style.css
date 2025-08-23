@@ -18,11 +18,11 @@ body {
     box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8);
     max-width: 1250px;
     margin: 0 auto;
-    background-image: url(./img/img13.png), url(./img/img132.png);
+    background-image: url('./img/img13.png'), url('./img/img132.png');
     background-size: 25%;
     background-repeat: no-repeat;
-    background-position: right top,left top;
-    
+    background-position: right top, left top;
+
 
 }
 
